@@ -1,5 +1,5 @@
 # DataScience
-Fun with data.
+Fun with data, while learning Python, numpy, pandas, matplotlib, scikit & more.
 
 ## Quebec's Covid data
 
