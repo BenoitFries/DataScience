@@ -4,7 +4,7 @@ Fun with data, while learning Python, numpy, pandas, matplotlib, scikit & more.
 ## Animated GIS Map of Canada and the US
 I wanted to try GeoPandas, so I created a map by combining two different GIS sources, and added a layer with drought data over it. 
 
-https://user-images.githubusercontent.com/40205456/146647095-4e9b50ec-4183-4431-971d-4b6634b64448.mp4
+![NorthAmerica_Map_Drought](https://user-images.githubusercontent.com/40205456/146647247-047bbc31-a9e5-4555-9185-2a9ccc8380db.gif)
 
 ## Quebec's Covid data
 The graphs we usually see with just the cases can give the impression that things are getting worse, each wave getting bigger than the previous one. 
