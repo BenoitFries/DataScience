@@ -7,13 +7,12 @@ This was part of the "[Complete ML & Data Science bootcamp 2022](https://www.ude
 ![Dog Breed Identification](https://github.com/BenoitFries/DataScience/blob/main/dogvision.png?raw=true)
 
 ## Animated GIS Map of Canada and the US
-I wanted to try GeoPandas, so I created a map by combining two different GIS sources, and added a layer with drought data over it. 
+I wanted to try GeoPandas, so I created a map by combining two different GIS sources, and added a layer with drought data over it. [Link to Jupyter Notebook](https://github.com/BenoitFries/DataScience/blob/main/GIS%20Map%20of%20US%20and%20Canada%20with%20drought%20data.ipynb).
 
 ![NorthAmerica_Map_Drought](https://user-images.githubusercontent.com/40205456/146647247-047bbc31-a9e5-4555-9185-2a9ccc8380db.gif)
 
 ## Quebec's Covid data
-The graphs we usually see with just the cases can give the impression that things are getting worse, each wave getting bigger than the previous one. 
-Adding deaths (dot colors) and CFR (red line) tells a different story. At the beggining of the pandemic we had more that 1/8th of the cases ending in death, and now it's less that 1/500th. This is us getting better at detecting covid cases, protecting and treating the vulnerable, and vaccinating. 
+The graphs we usually see with just the cases can give the impression that things are getting worse, each wave getting bigger than the previous one. Adding deaths (dot colors) and CFR (red line) tells a different story. At the beggining of the pandemic we had more that 1/8th of the cases ending in death, and now it's less that 1/500th. This is us getting better at detecting covid cases, protecting and treating the vulnerable, and vaccinating. [Link to Jupyter Notebook](https://github.com/BenoitFries/DataScience/blob/main/Exploring%20Quebec's%20COVID%20data.ipynb).
 
 ![QC_Covid_Cases_and_Deaths](https://github.com/BenoitFries/DataScience/blob/main/QC_Covid_Cases_and_Deaths.png?raw=true)
 
