@@ -2,7 +2,7 @@
 Fun with data, while learning Python, numpy, pandas, matplotlib, scikit, TensorFlow & more.
 
 ## Dog breed identification from a photo
-This was part of the "Complete ML & Data Science bootcamp 2022", with a dataset of 10K labelled dog images + 10K unlabelled test images from Kaggle. We use TensorFlow 2.0 to train a Deep Learning model using Transfer Learning. [Google colab project](https://github.com/BenoitFries/DataScience/blob/main/dog_vision.ipynb).
+This was part of the "[Complete ML & Data Science bootcamp 2022](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/learn/lecture/18041737#overview)", with a dataset of 10K labelled dog images + 10K unlabelled test images from Kaggle. We use TensorFlow 2.0 to train a Deep Learning model using Transfer Learning. [Google colab project](https://github.com/BenoitFries/DataScience/blob/main/dog_vision.ipynb).
 
 ![Dog Breed Identification](https://github.com/BenoitFries/DataScience/blob/main/dogvision.png?raw=true)
 
