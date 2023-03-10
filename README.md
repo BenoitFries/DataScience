@@ -1,6 +1,8 @@
 # DataScience
 Fun with data, while learning Python, numpy, pandas, matplotlib, scikit, TensorFlow & more.
 
+(*Please note that these are just snippets of very simple code intended to test and learn, if it was intended for production it would be properly formatted and documented.*)
+
 ## A love poem generator using GPT-3 and DALL-E (OpenAI)
 Being a great romantic, I delegated the creation of love poems to GPT, with illustration by DALL-E. I'm sure that my wife will be delighted! [Google colab project](https://github.com/BenoitFries/DataScience/blob/main/An_illustrated_love_poem_generator_using_GPT_and_DALL_E_(OpenAI).ipynb).
 
