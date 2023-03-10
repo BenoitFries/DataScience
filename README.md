@@ -4,7 +4,7 @@ Fun with data, while learning Python, numpy, pandas, matplotlib, scikit, TensorF
 ## A love poem generator using GPT-3 and DALL_E (OpenAI)
 Being a great romantic, I delegated the creation of love poems to GPT, with illustration by DALL-E. I'm sure that my wife will be delighted! [Google colab project](https://github.com/BenoitFries/DataScience/blob/main/An_illustrated_love_poem_generator_using_GPT_and_DALL_E_(OpenAI).ipynb).
 
-![Dog Breed Identification](https://github.com/BenoitFries/DataScience/blob/main/poem1.png?raw=true)
+![Dog Breed Identification](https://github.com/BenoitFries/DataScience/blob/main/poems.png?raw=true)
 
 ## Dog breed identification from a photo
 This was part of the "[Complete ML & Data Science bootcamp 2022](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/learn/lecture/18041737#overview)", with a dataset of 10K labelled dog images + 10K unlabelled test images from Kaggle. We use TensorFlow 2.0 to train a Deep Learning model using Transfer Learning. [Google colab project](https://github.com/BenoitFries/DataScience/blob/main/dog_vision.ipynb).
