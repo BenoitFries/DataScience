@@ -3,15 +3,21 @@ Fun with data, while learning Python, numpy, pandas, matplotlib, scikit, TensorF
 
 (*Please note that these are just snippets of very simple code intended to test and learn, if it was intended for production it would be properly formatted and documented.*)
 
+- [An automated STEAM review analyzer using GPT (OpenAI)](#an-automated-steam-review-analyzer-using-gpt-openai)
 - [A love poem generator using GPT-3 and DALL-E (OpenAI)](#a-love-poem-generator-using-gpt-3-and-dall-e-openai)
 - [Dog breed identification from a photo](#dog-breed-identification-from-a-photo)
 - [Animated GIS Map of Canada and the US](#animated-gis-map-of-canada-and-the-us)
 - [Quebec's Covid data](#quebecs-covid-data)
 
+## An automated STEAM review analyzer using GPT (OpenAI) 
+I explored the possibility of automating the analysis of Steam reviews and creating a summary of the most common issues reported by the users (providing the review ids and relevant keywords). The result is not perfect, but keep in mind that this is just with GPT-3, ChatGPT (GPT-3.5) or GPT-4 would probably give much  better results and would also permit to include many more reviews. [Google Colab Project](https://github.com/BenoitFries/DataScience/blob/main/Automated_Steam_review_analysis_with_GPT.ipynb)
+
+![An automated STEAM review analyzer using GPT](https://github.com/BenoitFries/DataScience/blob/main/GPT_Steam_Reviews.png?raw=true)
+
 ## A love poem generator using GPT-3 and DALL-E (OpenAI)
 Being a great romantic, I delegated the creation of love poems to GPT, with illustration by DALL-E. I'm sure that my wife will be delighted! [Google colab project](https://github.com/BenoitFries/DataScience/blob/main/An_illustrated_love_poem_generator_using_GPT_and_DALL_E_(OpenAI).ipynb).
 
-![Dog Breed Identification](https://github.com/BenoitFries/DataScience/blob/main/poems.png?raw=true)
+![A love poem generator using GPT-3 and DALL-E](https://github.com/BenoitFries/DataScience/blob/main/poems.png?raw=true)
 
 ## Dog breed identification from a photo
 This was part of the "[Complete ML & Data Science bootcamp 2022](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/learn/lecture/18041737#overview)", with a dataset of 10K labelled dog images + 10K unlabelled test images from Kaggle. We use TensorFlow 2.0 to train a Deep Learning model using Transfer Learning. [Google colab project](https://github.com/BenoitFries/DataScience/blob/main/dog_vision.ipynb).
