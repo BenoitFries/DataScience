@@ -14,6 +14,8 @@ Fun with data, while learning Python, numpy, pandas, matplotlib, scikit, TensorF
 ## An automated STEAM review analyzer using GPT (OpenAI) 
 I explored the possibility of automating the analysis of Steam reviews and creating a summary of the most common issues reported by the users (providing the review ids and relevant keywords). The result is not perfect, but keep in mind that this is just with GPT-3, ChatGPT (GPT-3.5) or GPT-4 would probably give much  better results and would also permit to include many more reviews. [Google Colab Project](https://github.com/BenoitFries/DataScience/blob/main/Automated_Steam_review_analysis_with_GPT.ipynb)
 
+Update: I used a similar method with ChatGPT to generate a list of strength and weaknesses for 25.000 Steam games (i.e. [Stardew Valley](https://www.steamdata.ninja/game/413150)) 
+
 ![An automated STEAM review analyzer using GPT](https://github.com/BenoitFries/DataScience/blob/main/GPT_Steam_Reviews.png?raw=true)
 
 <br>
